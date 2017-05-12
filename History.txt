@@ -1,7 +1,8 @@
 Project history
 
-GitHub Desktop. // ÁÖ¼®Àº ±úÁú±î?? 
+GitHub Desktop. // ì£¼ì„ì€ ê¹¨ì§ˆê¹Œ?? 
 
-¹¹¾ß.. ¿Ö ÇÑ±ÛÀÌ ±úÁöÁö... ??
-À½.. ÀÌ»óÇÑµ¥...
+ë­ì•¼.. ì™œ í•œê¸€ì´ ê¹¨ì§€ì§€... ??
+ìŒ.. ì´ìƒí•œë°...
 
+modify remote.
